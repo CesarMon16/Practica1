@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>T√≠tulo</title>
+        <title>TÌtulo</title>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
@@ -23,7 +23,7 @@
             <!-- place navbar here -->
         </header>
         <main>
-            <h1>BIENVENIDO A LA P√ÅGINA DE IVAN</h1>
+            <h1>BIENVENIDO A LA P¡GINA DE IVAN</h1>
             <div class="card">
                 <img class="card-img-top" src="holder.js/100x180/" alt="Title" />
                 <div class="card-body">
